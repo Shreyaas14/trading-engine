@@ -1,0 +1,13 @@
+//
+//  app_settings.xcconfig
+//  trading_engine_server
+//
+//  Created by Shreyaas Sureshbabu on 11/20/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+{
+
+}
